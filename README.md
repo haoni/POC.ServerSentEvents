@@ -1,0 +1,1 @@
+Realizando uma pequena prova de conceito da criação de um sent events em dotnet core.
